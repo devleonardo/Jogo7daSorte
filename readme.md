@@ -12,4 +12,4 @@ Para fins de estudos relacionado a programação visual.
 
 Clique [AQUI](https://github.com/devleonardo/Jogo7daSorte/blob/master/Jogo7daSorte/bin/Debug/Jogo7daSorte.exe) para baixar o jogo!
 
-[]()
+![jogo7](https://user-images.githubusercontent.com/46674942/97656981-8a496c80-1a47-11eb-9752-e909e4aecccc.jpg)
