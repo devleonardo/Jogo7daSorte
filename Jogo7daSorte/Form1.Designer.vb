@@ -25,11 +25,11 @@ Partial Class Form1
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.num3 = New System.Windows.Forms.Label()
         Me.Panel2 = New System.Windows.Forms.Panel()
+        Me.num2 = New System.Windows.Forms.Label()
         Me.Panel3 = New System.Windows.Forms.Panel()
         Me.num1 = New System.Windows.Forms.Label()
-        Me.num2 = New System.Windows.Forms.Label()
-        Me.num3 = New System.Windows.Forms.Label()
         Me.imagemResultado = New System.Windows.Forms.PictureBox()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
@@ -62,6 +62,18 @@ Partial Class Form1
         Me.Panel1.Size = New System.Drawing.Size(62, 70)
         Me.Panel1.TabIndex = 1
         '
+        'num3
+        '
+        Me.num3.AutoSize = True
+        Me.num3.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.num3.Font = New System.Drawing.Font("Miss Scarlett Plain", 48.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.num3.ForeColor = System.Drawing.Color.Red
+        Me.num3.Location = New System.Drawing.Point(1, 3)
+        Me.num3.Name = "num3"
+        Me.num3.Size = New System.Drawing.Size(68, 65)
+        Me.num3.TabIndex = 0
+        Me.num3.Text = "0"
+        '
         'Panel2
         '
         Me.Panel2.BackColor = System.Drawing.Color.White
@@ -70,6 +82,17 @@ Partial Class Form1
         Me.Panel2.Name = "Panel2"
         Me.Panel2.Size = New System.Drawing.Size(63, 70)
         Me.Panel2.TabIndex = 0
+        '
+        'num2
+        '
+        Me.num2.AutoSize = True
+        Me.num2.Font = New System.Drawing.Font("Miss Scarlett Plain", 48.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.num2.ForeColor = System.Drawing.Color.Red
+        Me.num2.Location = New System.Drawing.Point(1, 3)
+        Me.num2.Name = "num2"
+        Me.num2.Size = New System.Drawing.Size(68, 65)
+        Me.num2.TabIndex = 0
+        Me.num2.Text = "0"
         '
         'Panel3
         '
@@ -91,36 +114,13 @@ Partial Class Form1
         Me.num1.TabIndex = 0
         Me.num1.Text = "0"
         '
-        'num2
-        '
-        Me.num2.AutoSize = True
-        Me.num2.Font = New System.Drawing.Font("Miss Scarlett Plain", 48.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.num2.ForeColor = System.Drawing.Color.Red
-        Me.num2.Location = New System.Drawing.Point(1, 3)
-        Me.num2.Name = "num2"
-        Me.num2.Size = New System.Drawing.Size(68, 65)
-        Me.num2.TabIndex = 0
-        Me.num2.Text = "0"
-        '
-        'num3
-        '
-        Me.num3.AutoSize = True
-        Me.num3.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.num3.Font = New System.Drawing.Font("Miss Scarlett Plain", 48.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.num3.ForeColor = System.Drawing.Color.Red
-        Me.num3.Location = New System.Drawing.Point(1, 3)
-        Me.num3.Name = "num3"
-        Me.num3.Size = New System.Drawing.Size(68, 65)
-        Me.num3.TabIndex = 0
-        Me.num3.Text = "0"
-        '
         'imagemResultado
         '
         Me.imagemResultado.BackColor = System.Drawing.SystemColors.ControlDark
         Me.imagemResultado.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.imagemResultado.Location = New System.Drawing.Point(226, 223)
+        Me.imagemResultado.Location = New System.Drawing.Point(226, 236)
         Me.imagemResultado.Name = "imagemResultado"
-        Me.imagemResultado.Size = New System.Drawing.Size(285, 176)
+        Me.imagemResultado.Size = New System.Drawing.Size(285, 163)
         Me.imagemResultado.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.imagemResultado.TabIndex = 2
         Me.imagemResultado.TabStop = False

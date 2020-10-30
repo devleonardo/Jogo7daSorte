@@ -14,17 +14,17 @@
         num3.Text = CStr(Int(Rnd() * 10)) 'Escolhe 3º número aleatório de 1 a 10
         'Se todos os numeros forem iguais a 7
         If (num1.Text = "7") And (num2.Text = "7") And (num3.Text = "7") Then
-            imagemResultado.Image = Image.FromFile("C:\Users\leona\source\repos\Jogo7daSorte\GanhouMax.jpg")
+            imagemResultado.Image = Image.FromFile("C:\Users\leona\source\repos\Jogo7daSorte\img\GanhouMax.jpg")
             imagemResultado.Visible = True
             Beep()
             'Se um dos numeros forem iguais a 7
         ElseIf (num1.Text = "7") Or (num2.Text = "7") Or (num3.Text = "7") Then
-            imagemResultado.Image = Image.FromFile("C:\Users\leona\source\repos\Jogo7daSorte\Ganhou.jpg")
+            imagemResultado.Image = Image.FromFile("C:\Users\leona\source\repos\Jogo7daSorte\img\Ganhou.jpg")
             imagemResultado.Visible = True
             Beep()
             'Se nenhum numero for igual a 7
         Else
-            imagemResultado.Image = Image.FromFile("C:\Users\leona\source\repos\Jogo7daSorte\Perdeu.jpg")
+            imagemResultado.Image = Image.FromFile("C:\Users\leona\source\repos\Jogo7daSorte\img\Perdeu.jpg")
             imagemResultado.Visible = True
             Beep()
         End If

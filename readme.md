@@ -11,3 +11,5 @@ Para fins de estudos relacionado a programação visual.
   - Tendo como um 7 = bom, 77 = ótimo, 777 = Excelente.
 
 Clique [AQUI](https://github.com/devleonardo/Jogo7daSorte/blob/master/Jogo7daSorte/bin/Debug/Jogo7daSorte.exe) para baixar o jogo!
+
+[]()
