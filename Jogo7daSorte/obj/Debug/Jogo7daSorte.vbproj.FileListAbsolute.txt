@@ -1,0 +1,12 @@
+C:\Users\leona\source\repos\Jogo7daSorte\Jogo7daSorte\bin\Debug\Jogo7daSorte.exe.config
+C:\Users\leona\source\repos\Jogo7daSorte\Jogo7daSorte\bin\Debug\Jogo7daSorte.exe
+C:\Users\leona\source\repos\Jogo7daSorte\Jogo7daSorte\bin\Debug\Jogo7daSorte.pdb
+C:\Users\leona\source\repos\Jogo7daSorte\Jogo7daSorte\bin\Debug\Jogo7daSorte.xml
+C:\Users\leona\source\repos\Jogo7daSorte\Jogo7daSorte\obj\Debug\Jogo7daSorte.vbprojAssemblyReference.cache
+C:\Users\leona\source\repos\Jogo7daSorte\Jogo7daSorte\obj\Debug\Jogo7daSorte.Form1.resources
+C:\Users\leona\source\repos\Jogo7daSorte\Jogo7daSorte\obj\Debug\Jogo7daSorte.Resources.resources
+C:\Users\leona\source\repos\Jogo7daSorte\Jogo7daSorte\obj\Debug\Jogo7daSorte.vbproj.GenerateResource.cache
+C:\Users\leona\source\repos\Jogo7daSorte\Jogo7daSorte\obj\Debug\Jogo7daSorte.vbproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Jogo7daSorte\Jogo7daSorte\obj\Debug\Jogo7daSorte.exe
+C:\Users\leona\source\repos\Jogo7daSorte\Jogo7daSorte\obj\Debug\Jogo7daSorte.xml
+C:\Users\leona\source\repos\Jogo7daSorte\Jogo7daSorte\obj\Debug\Jogo7daSorte.pdb
